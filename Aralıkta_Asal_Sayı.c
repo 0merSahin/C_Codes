@@ -19,13 +19,5 @@ int main(){
 		control=0;
 	}
 	
-	
-	
-	
-	
-	
-	
-	
-	
 	return 0;
 }
