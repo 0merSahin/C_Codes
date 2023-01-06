@@ -12,7 +12,8 @@ int main(){
         return 0;
     }
 
-    for (int i=2;i<sayi;i++){  //i'yi 2 den baþlatmamýz gerekmekte. Çünkü sýfýrdan veya 1 den baþlatýrsak, her sayý 0'a ve 1'e bölneceðinden doðru cevabý bulamayýz.
+    //i'yi 2 den başlatmamız gerekmekte. Çünkü sıfırdan veya 1 den başlatırsak her sayı 0'a ve 1'e bölneceğinden doğru cevabı bulamayız.
+    for (int i=2;i<sayi;i++){  
         if(sayi%i==0){
             kontrol=1;
             break;
