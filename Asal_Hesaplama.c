@@ -20,12 +20,8 @@ int main(){
         }
     }
 
-    if (kontrol==1){
-        printf("%d sayisi asal sayi degildir.\n",sayi);
-    }
-    else{
-        printf("%d sayisi asal sayidir.\n",sayi);
-    }
-
+    if (kontrol==1) printf("%d sayisi asal sayi degildir.\n",sayi);
+    else printf("%d sayisi asal sayidir.\n",sayi);
+    
     return 0;
 }
