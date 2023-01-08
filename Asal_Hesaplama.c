@@ -1,7 +1,6 @@
 #include<stdio.h>
 
 int main(){
-
     int sayi, kontrol=0;
 
     printf("Lutfen asali alinacak sayiyi giriniz: ");
