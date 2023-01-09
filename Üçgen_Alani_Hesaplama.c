@@ -7,7 +7,7 @@ int main(){
     scanf("%lf", &yaricap);
 
     alan = pi * (pow(yaricap, 2));
-    printf("Ucgenin alani: %.4f", alan);
+    printf("Ucgenin alani: %.4f", alan); // Virgülden sonra 4 basamak yazdıracak!
 
     return 0;
 }
