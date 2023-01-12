@@ -2,7 +2,6 @@
 
 int main(){
     int numara = 123, bakiye = 3000, gunlimit = 1000, islem = 0, tutar;
-
     printf("Hosgeldiniz.\n");
     printf("Lutfen musteri numaranizi giriniz: ");
     scanf("%d", &numara);
