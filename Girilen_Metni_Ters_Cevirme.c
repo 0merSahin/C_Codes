@@ -2,8 +2,8 @@
 
 int main(){
     char kelime[100];
-    int sayac=-1;
-    int k=1;
+    int sayac =- 1;
+    int k = 1;
 
     printf ("Lutfen bir kelime giriniz: ");
     gets (kelime);
