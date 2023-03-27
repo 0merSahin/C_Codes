@@ -7,4 +7,4 @@
 98	Fatma	Durmuş
 15	Ayşe	Yıldız
 38	Ali 	Koç
-92	Arda	Güler
+92	Arda	Araz
