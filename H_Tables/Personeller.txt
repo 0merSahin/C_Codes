@@ -1,0 +1,10 @@
+25	Osman 	Arslan
+54	Hüseyin	Aydın
+73	Burak	Yıldırım
+12	Bilal	Kaplan
+87	Ömer 	Çelik
+34	Ahmet 	Yılmaz
+98	Fatma	Durmuş
+15	Ayşe	Yıldız
+38	Ali 	Koç
+92	Arda	Güler
