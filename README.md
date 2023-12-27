@@ -2,5 +2,3 @@
 
 Here I am storing some of my little C codes that I have done so far
 
-
-[TR] Burada şimdiye kadar yaptığım küçük C kodlarımdan bazılarını saklıyorum
